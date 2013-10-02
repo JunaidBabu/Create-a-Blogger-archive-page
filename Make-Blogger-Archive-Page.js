@@ -1,4 +1,4 @@
-unction LoadTheArchive(TotalFeed) 
+function LoadTheArchive(TotalFeed) 
 {
     var PostTitles = new Array();
     var PostURLs = new Array();
